@@ -28,8 +28,7 @@
 - Led the development of the **BiI** interface between SolidWorks PDM Pro and ERP systems
 - Automated data exchange to reduce errors
 - Customisable to company-specific workflows
-- URL: [https://bii.erppdm.com/pdmerpintegration.html](https://bii.erppdm.com/pdmerpintegration.html)
-- URL: [https://github.com/erppdm/About-Me/blob/main/BiI_V0.6.0_in_2%20minutes.mp4](https://github.com/erppdm/About-Me/blob/main/BiI_V0.6.0_in_2%20minutes.mp4)
+- URL: [https://github.com/erppdm/PDM-ERP-Integration](https://github.com/erppdm/PDM-ERP-Integration/tree/main?tab=readme-ov-file#introduction)
 
 #### SolidWorks PDM Wrapper
 - Development of the SWPAW wrapper for the creation of add-ins in any programming and scripting language
