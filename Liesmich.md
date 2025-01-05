@@ -21,12 +21,14 @@
 ### Produktkonfigurator
 - Entwicklung eines Konfigurators für 3D-Modelle und 2D-Ableitungen in SolidWorks
 - Regelwerke und Steuerung definiert über Excel
-- Automatische Verwaltung der Daten via Schnittstelle **BiI** im PDM- und ERP-System
+- Automatische Verwaltung der Daten via der Schnittstelle **BiI** im PDM- und ERP-System
+- URL: [https://bii.erppdm.com/productconfigurator.html](https://bii.erppdm.com/productconfigurator.html)
 
 ### Bidirektionale Schnittstelle
 - Leitung der Entwicklung der Schnittstelle **BiI** zwischen SolidWorks PDM Pro und ERP-Systemen
 - Automatisierter Datenaustausch und Fehlerreduktion
 - Anpassung an unternehmensspezifische Workflows
+- URL: [https://bii.erppdm.com/pdmerpintegration.html](https://bii.erppdm.com/pdmerpintegration.html)
 - URL: [https://github.com/erppdm/About-Me/blob/main/BiI_V0.6.0_in_2%20minutes.mp4](https://github.com/erppdm/About-Me/blob/main/BiI_V0.6.0_in_2%20minutes.mp4)
 
 ### SolidWorks PDM Wrapper
@@ -38,13 +40,13 @@
 - Aufbau einer optimierten Produktionsplanung zur Verbesserung von Kapazitätsauslastung, Materialfluss und Terminplanung
 
 ### Prototypentwicklung Raupentraktor
-- Leitung des Projekts AHWI RT200 bis zur Prototypenphase
+- Leitung des Projekts **AHWI RT200** bis zur Prototypenphase
 - Bewältigung von Herausforderungen in Größe, Gewicht, Fahrwerk und Antrieb
 - Kompaktester Raupentraktor seiner Klasse
 - URL: [https://youtu.be/Be2YtRjKcBY](https://youtu.be/Be2YtRjKcBY)
 
 ### Doppelgelenkwellensteuerung
-- Entwicklung einer Steuerung für 3-Punkt-Anbaugeräte
+- Entwicklung einer Steuerung für 3-Punkt-Anbaugeräte für den **AHWI RT200**
 - Automatische Anpassung der Beugewinkel β auf maximal 3° Unterschied
 - Die Steuerung wurde patentiert
 
