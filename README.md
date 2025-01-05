@@ -22,11 +22,13 @@
 - Development of the Altec configurator for 3D models and 2D drawings in SolidWorks
 - Policies and web interface control defined via Excel
 - Automated data management via the **BiI** interface between PDM and ERP system
+- URL: [https://bii.erppdm.com/productconfigurator.html](https://bii.erppdm.com/productconfigurator.html)
 
 #### Bidirectional Interface
 - Led the development of the **BiI** interface between SolidWorks PDM Pro and ERP systems
 - Automated data exchange to reduce errors
 - Customisable to company-specific workflows
+- URL: [https://bii.erppdm.com/pdmerpintegration.html](https://bii.erppdm.com/pdmerpintegration.html)
 - URL: [https://github.com/erppdm/About-Me/blob/main/BiI_V0.6.0_in_2%20minutes.mp4](https://github.com/erppdm/About-Me/blob/main/BiI_V0.6.0_in_2%20minutes.mp4)
 
 #### SolidWorks PDM Wrapper
@@ -38,13 +40,13 @@
 - Establish an optimised production planning system to improve capacity utilisation, material flow and scheduling
 
 #### Prototype development of a caterpillar tractor
-- Led of the AHWI RT200 project up to the prototype phase
+- Led of the **AHWI RT200** project up to the prototype phase
 - Challenges in terms of size, weight, chassis and drive systems
 - Most compact caterpillar tractor in its class
 - URL: https://youtu.be/Be2YtRjKcBY
 
 #### Double Cardan Joint Shaft Control
-- Development of a control system for 3-point attachments
+- Development of a control system for 3-point attachments for the **AHWI RT200**
 - Automatically adjusted angle differences β up to a maximum of 3°
 - The control system has been patented
 
