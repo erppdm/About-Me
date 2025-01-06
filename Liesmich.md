@@ -22,7 +22,7 @@
 - Entwicklung eines Konfigurators für 3D-Modelle und 2D-Ableitungen in SolidWorks
 - Regelwerke und Steuerung definiert über Excel
 - Automatische Verwaltung der Daten via der Schnittstelle **BiI** im PDM- und ERP-System
-- URL: [[https://bii.erppdm.com/productconfigurator.html](https://github.com/erppdm/Product-Configurator)]
+- URL: https://github.com/erppdm/Product-Configurator
 
 ### Bidirektionale Schnittstelle
 - Leitung der Entwicklung der Schnittstelle **BiI** zwischen SolidWorks PDM Pro und ERP-Systemen
