@@ -22,7 +22,7 @@
 - Development of the Altec configurator for 3D models and 2D drawings in SolidWorks
 - Policies and web interface control defined via Excel
 - Automated data management via the **BiI** interface between PDM and ERP system
-- URL: [https://bii.erppdm.com/productconfigurator.html](https://bii.erppdm.com/productconfigurator.html)
+- URL: [https://github.com/erppdm/Product-Configurator](https://github.com/erppdm/Product-Configurator)
 
 #### Bidirectional Interface
 - Led the development of the **BiI** interface between SolidWorks PDM Pro and ERP systems
