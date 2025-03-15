@@ -1,4 +1,3 @@
-&nbsp;
 ## Mechanical Engineering Technician with knowledge of IT and business administration
 
 ### Education
