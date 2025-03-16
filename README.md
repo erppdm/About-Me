@@ -44,7 +44,7 @@
 - Most compact caterpillar tractor in its class
 - URL: https://youtu.be/Be2YtRjKcBY
 
-#### Double Cardan Joint Shaft Control
+#### Double Cardan Joint Shaft
 - Development of a control system for 3-point attachments for the **AHWI RT200**
 - Automatically adjusted angle differences β up to a maximum of 3°
 - The control system has been patented
